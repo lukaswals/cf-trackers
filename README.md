@@ -23,6 +23,14 @@ Conferences names:
 	* __Major Contribution/s:__ Learn multiple adaptive correlation filters with both long-term memory and short-term memory of target appearance for robust object tracking.
 	* __Code:__ [Matlab](https://github.com/chaoma99/lct-tracker) 
 
+## 2017
+
+* _ACFN_
+	* __Paper:__ ["Attentional Correlation Filter Network for Adaptive Visual Tracking"](https://drive.google.com/open?id=0B0ZkG8zaRQoLUHdlTGNtUWFjd1E)
+	* __Presented in:__ CVPR
+	* __Major Contribution/s:__ Propose a new framework in which an attention network that selects the best module (a set of Correlation Filters) to track the object in a certain frame
+	* __Code:__ [Matlab](https://github.com/jongwon20000/ACFN) 
+
 ## 2015
 
 * _MKCF_ 
