@@ -28,8 +28,20 @@ Conferences names:
 * _ACFN_
 	* __Paper:__ ["Attentional Correlation Filter Network for Adaptive Visual Tracking"](https://drive.google.com/open?id=0B0ZkG8zaRQoLUHdlTGNtUWFjd1E)
 	* __Presented in:__ CVPR
-	* __Major Contribution/s:__ Propose a new framework in which an attention network that selects the best module (a set of Correlation Filters) to track the object in a certain frame
+	* __Major Contribution/s:__ Propose a new framework in which an attention network that selects the best module (a set of Correlation Filters) to track the object in a certain frame.
 	* __Code:__ [Matlab](https://github.com/jongwon20000/ACFN) 
+	
+* _CFNet_ ([Project Page](https://www.robots.ox.ac.uk/~luca/cfnet.html))
+	* __Paper:__ ["End-to-end representation learning for Correlation Filter based tracking"](http://openaccess.thecvf.com/content_cvpr_2017/html/Valmadre_End-To-End_Representation_Learning_CVPR_2017_paper.html)
+	* __Presented in:__ CVPR
+	* __Major Contribution/s:__ First work to propose training the Correlation Filter jointly with a Siamese Network in an end-to-end fashion.
+	* __Code:__ [Matlab](https://github.com/bertinetto/cfnet)
+	
+* _DCFNet_
+	* __Paper:__ ["DCFNet: Discriminant Correlation Filters Network for Visual Tracking"](https://arxiv.org/pdf/1704.04057.pdf)
+	* __Presented in:__ arXiv
+	* __Major Contribution/s:__ Another work to propose training the Correlation Filter jointly with a Siamese Network. Different from CFNet in network architecture and place of the Correlation Filter in the Tracker architecture.
+	* __Code:__ [Matlab](https://github.com/foolwood/DCFNet) | [Python (PyTorch)](https://github.com/foolwood/DCFNet_pytorch)
 
 ## 2015
 
